@@ -12,3 +12,4 @@ C:\Users\Sithembiso Nkosi\OneDrive - Lightstone\Desktop\CodeChallenges\MyCSharpA
 C:\Users\Sithembiso Nkosi\OneDrive - Lightstone\Desktop\CodeChallenges\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.pdb
 C:\Users\Sithembiso Nkosi\OneDrive - Lightstone\Desktop\CodeChallenges\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.genruntimeconfig.cache
 C:\Users\Sithembiso Nkosi\OneDrive - Lightstone\Desktop\CodeChallenges\MyCSharpApp\obj\Debug\net8.0\ref\MyCSharpApp.dll
+C:\Users\Sithembiso Nkosi\OneDrive - Lightstone\Desktop\CodeChallenges\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.sourcelink.json

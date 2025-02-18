@@ -1,13 +1,13 @@
-using System;
+// using System;
 
-class Program
+// class Program
 
-{
-    static void Main()
-    {
-        Console.WriteLine("Enter your name: ");
-        string userName = Console.ReadLine();
+// {
+//     static void Main()
+//     {
+//         Console.WriteLine("Enter your name: ");
+//         string userName = Console.ReadLine();
 
-        Console.WriteLine($"Hello, {userName}!");
-    }
-}
+//         Console.WriteLine($"Hello, {userName}!");
+//     }
+// }
